@@ -7,6 +7,7 @@ public class Student {
         for (int i = 0; i < 5; i++) {
             System.out.println("merhaba");
         }
+        System.out.println("ahmet 1");
     }
     
 }
